@@ -1,0 +1,1800 @@
+{
+    "data": [
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_000000_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_190000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_210000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_213000_000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM000500 R draytonii Only.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212MelingAM195000 Back.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 3_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment14_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 12_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210413_210000_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment19_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210211_212500_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_210000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM225500 R draytonii Only.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment31_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 14_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment7_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment55_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 20_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_212000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 21_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_185000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_210000_000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM225500 R draytonii Only.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 2_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_185000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_205000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment45_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 14_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM003000 Both.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210318_223500_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment10_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 4_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM012500 background.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_202000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210122_020000_000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 6_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment14_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment38_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001000 R draytonii only.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 1_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM003000 Both.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 18_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment51_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 3_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001500 R draytonii only.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment15_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 2_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221202_215000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_201000 R draytonii only_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment32_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 13_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_204000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 9_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM000500 R draytonii Only.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 10_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 12_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 5_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_204000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210413_210000_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment12_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 2_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001500 R draytonii only.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment44_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_184000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_194500 R draytonii only_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment25_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM011000 background.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_210000_000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 6_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 20_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 13_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 13_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 1_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment20_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 20_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 1_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220105MelingAM033000 Back.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_180000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 21_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM011000 background.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230500 Both.WAV_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210122_020000_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 10_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 8_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment35_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_183000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_212000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_190000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 6_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210413_210000_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 14_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 1_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230500 Both.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230000 R draytonii Only.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230500 Both.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 19_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_191000 R draytonii Only_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment18_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230500 Both.WAV_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 19_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224500 Both.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment10_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_194500 R draytonii only_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_183000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_180000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment12_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment12_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 21_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment21_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 19_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210318_223500_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 20_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221202_215000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212MelingAM195000 Back.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment10_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_204000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 16_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 11_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001500 R draytonii only.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_201000 R draytonii only_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_194500 R draytonii only_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_183000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_184000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 2_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 5_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM225500 R draytonii Only.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment13_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 18_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_192500 R draytonii only_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_000000_000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment12_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210211_212500_000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 11_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230000 R draytonii Only.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221202_215000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 20_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 4_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM012500 background.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment16_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 4_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 12_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_183000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM012500 background.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210121_223500_000_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 9_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221202_215000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 2_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230000 R draytonii Only.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 6_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 15_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment11_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_190000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment48_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment26_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_190000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 16_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM002500 R draytonii Only.WAV_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_194500 R draytonii only_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment8_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment64_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 1_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM000500 R draytonii Only.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment11_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment10_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220103MelingAM040000 Back.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM012500 background.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_180000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_214500_000_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_184000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment24_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 17_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 1_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 3_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_180000.WAV_segment7_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment25_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 4_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment16_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_220000_000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_211000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 15_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212MelingAM195000 Back.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 2_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 4_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_181000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment43_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224500 Both.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 4_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_211000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment16_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment7_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM000500 R draytonii Only.WAV_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment56_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_214500_000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 11_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 19_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224500 Both.WAV_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment28_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001000 R draytonii only.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 8_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment16_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment17_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_192500 R draytonii only_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 3_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_000000_000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_211000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_213000_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_211000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment61_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_003000_000_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment8_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_003000_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 4_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_210000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment33_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 20_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment14_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 17_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 2_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment13_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment26_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment12_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 4_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_204000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment8_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_193000 R draytonii only_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_204000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment10_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment52_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_185000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_214500_000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_194500 R draytonii only_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001500 R draytonii only.WAV_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 1_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221202_215000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment47_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210121_223500_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 16_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 18_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220104MelingAM025500 Back.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_210000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 2_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment21_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 16_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment11_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM002500 R draytonii Only.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 7_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_181000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_202000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_192500 R draytonii only_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 5_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212MelingAM195000 Back.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment57_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 4_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment14_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_202000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 3_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 4_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_193000 R draytonii only_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230000 R draytonii Only.WAV_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment68_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 7_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_003000_000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment23_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210122_020000_000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 5_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 6_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment36_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment22_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 13_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_205000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_205000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment19_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 9_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_201000 R draytonii only_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_205000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 5_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment13_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment62_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment23_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210413_210000_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 7_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 11_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment11_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_193000 R draytonii only_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment8_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 3_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment17_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_203000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM003000 Both.WAV_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment21_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 18_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM011000 background.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 18_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_190000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment34_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 10_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_184000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 15_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM003000 Both.WAV_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment8_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_194500 R draytonii only_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM001000 R draytonii only.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment13_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_210000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_183000.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment60_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM003000 Both.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224500 Both.WAV_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_180000.WAV_segment6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_214500_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 3_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 4_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM000500 R draytonii Only.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment34_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_003000_000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 16_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_212000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_210000_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment13_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment19_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM012500 background.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment15_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210121_223500_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 3_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220105MelingAM033000 Back.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment32_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment11_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_180000.WAV_segment8_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment31_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210121_223500_000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment26_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment16_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM225500 R draytonii Only.WAV_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 1_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_202000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 12_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment7_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment13_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment16_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment15_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment30_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 21_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment10_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment30_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment20_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210413_210000_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment11_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230500 Both.WAV_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 15_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM011000 background.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 16_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210413_210000_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 17_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212MelingAM195000 Back.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210122_020000_000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_184000.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 9_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210121_223500_000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment15_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM225500 R draytonii Only.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220105MelingAM033000 Back.WAV_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_185000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 7_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210212_000000_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220104MelingAM025500 Back.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_213000_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221201_203000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 2_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220104MelingAM025500 Back.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_180000.WAV_segment6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_194500 R draytonii only_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM003000 Both.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 3_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_193000 R draytonii only_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220104MelingAM025500 Back.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment22_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_220000_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_220000_000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210121_223500_000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_213000_000_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_201000 R draytonii only_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210131_210000_000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 15_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment58_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Pseudacris and Rana 5_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 19_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220103MelingAM040000 Back.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220101MelingAM012500 background.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_180000.WAV_segment6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230107_180000.WAV_segment12_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment20_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment7_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220104MelingAM025500 Back.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_180000.WAV_segment4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_180000.WAV_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221201_212000.WAV_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230500 Both.WAV_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 9_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_0_20210120_214500_000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220103MelingAM040000 Back.WAV_segment5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220208_191000 R draytonii Only_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM002500 R draytonii Only.WAV_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment18_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POTRERO-STRE_20220210_192500 R draytonii only_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 7_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 2_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment9_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000.WAV_segment25_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 3_segment5_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/rain.WAV_segment29_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/Rana draytonii 9_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220103MelingAM040000 Back.WAV_segment3_resampled.wav",
+            "labels": "/m/negative"
+        }
+    ]
+}
