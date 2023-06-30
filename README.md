@@ -1,5 +1,5 @@
 
-# AST: Audio Spectrogram Transformer  
+# AST: Audio Spectrogram Transformer - fine tuned for Rana Draytonii
  - [Introduction](#Introduction)
  - [Citing](#Citing)  
  - [Getting Started](#Getting-Started)
