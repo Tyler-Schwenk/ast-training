@@ -1,6 +1,5 @@
 
 # AST: Audio Spectrogram Transformer  
- - [News](#News)
  - [Introduction](#Introduction)
  - [Citing](#Citing)  
  - [Getting Started](#Getting-Started)
@@ -11,37 +10,21 @@
  - [Use Pretrained Model For Downstream Tasks](#Use-Pretrained-Model-For-Downstream-Tasks)
  - [Contact](#Contact)
 
-## News
-May, 2023: We have released demo for our audio large language model LTU (listen, think, and understand) that can do zero-shot audio classification and advanced reasoning. Try the online interactive demo **[[here]](https://github.com/YuanGongND/ltu)**.
-
-November, 2022: We decoupe `dataset` and hyper-parameters by moving hyper-parameters from `src/run.py` and `src/traintest.py` to `egs/{audioset,esc50,speechcommands}/run.sh`, so that it is easier to adapt the scripts to new datasets. This might cause a bug, please report if you have any issue running any recipe.
-
-October, 2022: We add an one-click, self-contained Google Colab script for (pretrained) AST inference with attention visualization. Please test the model with your own audio at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuanGongND/ast/blob/master/colab/AST_Inference_Demo.ipynb) by one click (no GPU needed). 
-
-May, 2022: It was found that newer `torchaudio` package has different behavior with older ones in SpecAugment and will cause a [bug](https://github.com/YuanGongND/ast/issues/58). We find a workaround and fixed it. If you are interested, see [here](https://colab.research.google.com/github/YuanGongND/ast/blob/master/colab/torchaudio_SpecMasking_1_1.ipynb).
-
-March, 2022: We released a new preprint [*CMKD: CNN/Transformer-Based Cross-Model Knowledge Distillation for Audio Classification*](https://arxiv.org/abs/2203.06760), where we proposed a knowledge distillation based method to further improve the AST model performance without changing its architecture.
-
-Feb, 2022: The [Self-Supervised AST (SSAST)](https://arxiv.org/abs/2110.09784) code is released [[**here**]](https://github.com/YuanGongND/ssast). SSAST use self-supervised pretraining instead of supervised ImageNet pretraining, so it supports arbitrary patch shape and size (e.g., a temperal frame and a square patch) with a good performance.
-
-Nov, 2021: The [PSLA training pipeline](https://arxiv.org/abs/2102.01243) used to train AST and baseline efficientnet model code is released [[**here**]](https://github.com/YuanGongND/psla). It is a strong audio classification training pipeline that can be used for most deep learning models. Also, it has a one-click FSD50K recipe that achieves SOTA 0.567 mAP.
-
 ## Introduction  
 
 <p align="center"><img src="https://github.com/YuanGongND/ast/blob/master/ast.png?raw=true" alt="Illustration of AST." width="300"/></p>
 
-This repository contains the official implementation (in PyTorch) of the **Audio Spectrogram Transformer (AST)** proposed in the Interspeech 2021 paper [AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778) (Yuan Gong, Yu-An Chung, James Glass).  
+This repository contains Tyler Schwenks fork of the official implementation (in PyTorch) of the **Audio Spectrogram Transformer (AST)** proposed in the Interspeech 2021 paper [AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778) (Yuan Gong, Yu-An Chung, James Glass).  
 
 AST is the first **convolution-free, purely** attention-based model for audio classification which supports variable length input and can be applied to various tasks. We evaluate AST on various audio classification benchmarks, where it achieves new state-of-the-art results of 0.485 mAP on AudioSet, 95.6% accuracy on ESC-50, and 98.1% accuracy on Speech Commands V2.  For details, please refer to the paper and the [ISCA SIGML talk](https://www.youtube.com/watch?v=CSRDbqGY0Vw).  
   
-Please have a try! AST can be used with a few lines of code, and we also provide recipes to reproduce the SOTA results on AudioSet, ESC-50, and Speechcommands with almost one click.  
 
 The AST model file is in `src/models/ast_models.py`, the recipes are in `egs/[audioset,esc50,speechcommands]/run.sh`, when you run `run.sh`, it will call `/src/run.py`, which will then call `/src/dataloader.py` and `/src/traintest.py`, which will then call `/src/models/ast_models.py`.
 
 We have an one-click, self-contained Google Colab script for (pretrained) AST inference and attention visualization. Please test the model with your own audio at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuanGongND/ast/blob/master/colab/AST_Inference_Demo.ipynb) by one click (no GPU needed).
 
 ## Citing  
-Please cite our paper(s) if you find this repository useful. The first paper proposes the Audio Spectrogram Transformer while the second paper describes the training pipeline that we applied on AST to achieve the new state-of-the-art on AudioSet.   
+The first paper proposes the Audio Spectrogram Transformer while the second paper describes the training pipeline that they applied on AST to achieve the new state-of-the-art on AudioSet.   
 ```  
 @inproceedings{gong21b_interspeech,
   author={Yuan Gong and Yu-An Chung and James Glass},
