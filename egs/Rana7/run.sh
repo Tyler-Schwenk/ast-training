@@ -7,11 +7,12 @@ export TORCH_HOME=../../pretrained_models
 model=ast
 dataset=Rana_Draytonii # replace with your dataset name
 set=balanced # replace with your training set type (full/balanced)
-imagenetpretrain=False
+imagenetpretrain=True
+audioset_pretrain=True
 
 # Please adjust all these parameters based on your data and task
 lr=1e-5
-epoch=5
+epoch=10
 tr_data=/content/drive/MyDrive/Rana_Draytonii/Rana7/train_data.json # replace with your training data path
 te_data=/content/drive/MyDrive/Rana_Draytonii/Rana7/val_data.json # replace with your evaluation data path
 freqm=48
@@ -43,6 +44,7 @@ python -W ignore ../../src/run.py --model ${model} --dataset ${dataset} \
 --lr $lr --n-epochs ${epoch} --batch-size $batch_size --save_model True \
 --freqm $freqm --timem $timem --mixup ${mixup} \
 --tstride $tstride --fstride $fstride --imagenet_pretrain $imagenetpretrain \
+--audioset_pretrain $audioset_pretrain \
 --dataset_mean ${dataset_mean} --dataset_std ${dataset_std} --audio_length ${audio_length} --noise ${noise} \
 --metrics ${metrics} --loss ${loss} --warmup ${warmup} \
 --wa ${wa}
