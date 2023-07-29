@@ -16,7 +16,9 @@ This repository contains Tyler Schwenk's fork of the official implementation (in
 
 AST is the first **convolution-free, purely** attention-based model for audio classification which supports variable length input and can be applied to various tasks. 
 
-I have fine tuned the audioset-pretrained model to identify the presence of the endangered Rana Draytonii in audio files taken from the field. These files are recorded near ponds, and can include noise such as other species of frogs or animals, rain, and wind. Despite the noise, the model is able to determine the presence of Rana Draytonii with about 98.77% accuracy, calculated as the proportion of predictions where the highest scoring label matches the key data. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the files metadata and output the information in an Excel file as below:
+I have fine tuned the audioset-pretrained model to identify the presence of the endangered Rana Draytonii in audio files taken from the field. These files are recorded near ponds, and can include noise such as other species of frogs or animals, rain, and wind.
+
+Despite the noise, the model is able to determine the presence of Rana Draytonii with about 98.77% accuracy, calculated as the proportion of predictions where the highest scoring label matches the key data. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the files metadata and output the information in an Excel file as below:
 
 | Model Name : Version | File Name     | Prediction | Times Heard | Device ID               | Timestamp                  | Temperature | Review Date |
 |----------------------|---------------|------------|-------------|-------------------------|----------------------------|-------------|-------------|
@@ -24,26 +26,21 @@ I have fine tuned the audioset-pretrained model to identify the presence of the 
 | AST_Rana_Draytonii:1.0 | 20221201_205000 | Negative   | N/A         | AudioMoth 249BC30461CBB1E6 | 20:50:00 01/12/2022 (UTC-8) | 9.1C        | 2023-07-22  |
 
 
-I have altered the dataloader.py, and created a new model in egs/Rana7. I have also added my preprossesing scripts (Data_Manager.ipynb) and training script (ASTtraining.ipynb) in the folder "Preprocessing". 
-
-The folder "Rana_Draytonii_ML_Model" contains everything needed to run the model, besides my fine tuned weights which can be downloaded here: https://www.dropbox.com/scl/fi/1ohxy38sm9863u2quf14h/best_audio_model1.pth?rlkey=ku3y2z88agn2kyumypjz3vpzj&dl=0
-
-
-
-
 
 ## How it works:
-I created a fork from the official AST github repo, and have modified some files to be able to fine tune their model to our task.
+The folder "Rana_Draytonii_ML_Model" contains everything needed to run the model, besides my fine tuned weights which can be downloaded [here](https://www.dropbox.com/scl/fi/1ohxy38sm9863u2quf14h/best_audio_model1.pth?rlkey=ku3y2z88agn2kyumypjz3vpzj&dl=0) Or simply download the entire folder, already setup [here](https://www.dropbox.com/scl/fi/preeiwjcb1hruqughn4av/Rana_Draytonii_ML_Model-20230722T145046Z-001.zip?rlkey=5q685b1v9gwnjsko8e6opo219&dl=0).
 
-I have a data manager in google colab that takes the .wav files and first splits them into 10 second segments, then saves them back to either google drive/locally. 
+I recommend placing "Rana_Draytonii_ML_Model" in your google drive, as it integrates well with google colab. Then you can simply open "AST_Inference.ipynb" in google colab and follow my detailed instructions to analyze your .wav files. This mostly amounts to uploading the files to be reviewed to the apporopriate folder in "Rana_Draytonii_ML_Model", inputting a few parameters, and running the script. The script will take care of preprocessing the .wav files, running them through the AST model, and create the above excel file in less than the time it would take to listen to your audio recordings.
 
-Then it reduced the files frequency range from 0-25 kHz to 0-3 kHz, which is where rana draytonii calls fall. 
+In this forked repository I have altered the dataloader.py, and created a new model in egs/Rana7. I have also added my preprossesing scripts (Data_Manager.ipynb) and training script (ASTtraining.ipynb) in the folder "Preprocessing". These are only for training, and so not necessary for those simply wanting to use my pretrained model for audio classification.
 
-Next it resamples the audio files to be 16 kHz sample rate, which is ideal for most machine learning tasks and required for use with ast. It also converts any stereo files to be mono for uniformity (most are already mono).
+I created Data_Manager to preform the following actions to prepare files for training:
+* Takes the .wav files and splits them into 10 second segments.
+* Resamples the audio files to have 16 kHz sample rate, which is ideal for most machine learning tasks and required for use with ast.
+* Converts any stereo files to be mono for uniformity (most are already mono).
+* Splits the files into testing, validation, and training sets (15,15,70) before creating a labels.csv and three .json files to index the files in training. 
 
-The data manager also splits the files into 15% for testing, 15% validation, and 70% training before creating a labels.csv and three .json files to index the files in training. 
-
-ASTtraining google colab will clone the repo, mount google drive and install dependencies, before running the training script.
+ASTtraining.ipynb will clone this repository, mount google drive and install dependencies, then running the training script. The training script outputs various evaluation metrics as it runs through multiple epochs, and stores the final weights in a .pth file.
 
 ## Limitations:
 Lack of data: currently using about 300 positive and 300 negative samples that are 10 seconds each. ~10 minutes of data
