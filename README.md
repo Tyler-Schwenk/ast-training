@@ -33,13 +33,13 @@ I recommend placing "Rana_Draytonii_ML_Model" in your google drive, as it integr
 
 In this forked repository I have altered the dataloader.py, and created a new model in egs/Rana7. I have also added my preprossesing scripts (Data_Manager.ipynb) and training script (ASTtraining.ipynb) in the folder "Preprocessing". These are only for training, and so not necessary for those simply wanting to use my pretrained model for audio classification.
 
-I created Data_Manager to preform the following actions to prepare files for training:
+I created "Data_Manager.ipynb" to preform the following actions to prepare files for training:
 * Takes the .wav files and splits them into 10 second segments.
 * Resamples the audio files to have 16 kHz sample rate, which is ideal for most machine learning tasks and required for use with ast.
 * Converts any stereo files to be mono for uniformity (most are already mono).
 * Splits the files into testing, validation, and training sets (15,15,70) before creating a labels.csv and three .json files to index the files in training. 
 
-ASTtraining.ipynb will clone this repository, mount google drive and install dependencies, then running the training script. The training script outputs various evaluation metrics as it runs through multiple epochs, and stores the final weights in a .pth file.
+"ASTtraining.ipynb" will clone this repository, mount google drive and install dependencies, then running the training script. The training script outputs various evaluation metrics as it runs through multiple epochs, and stores the final weights in a .pth file.
 
 ## Examples:
 
