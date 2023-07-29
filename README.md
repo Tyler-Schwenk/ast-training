@@ -26,7 +26,7 @@ Despite the noise, the model is able to determine the presence of Rana Draytonii
 
 
 
-## How it works:
+## How it works
 The folder "Rana_Draytonii_ML_Model" contains everything needed to run the model, besides my fine tuned weights which can be downloaded [here](https://www.dropbox.com/scl/fi/1ohxy38sm9863u2quf14h/best_audio_model1.pth?rlkey=ku3y2z88agn2kyumypjz3vpzj&dl=0) Or simply download the entire folder, already setup [here](https://www.dropbox.com/scl/fi/preeiwjcb1hruqughn4av/Rana_Draytonii_ML_Model-20230722T145046Z-001.zip?rlkey=5q685b1v9gwnjsko8e6opo219&dl=0).
 
 I recommend placing "Rana_Draytonii_ML_Model" in your google drive, as it integrates well with google colab. Then you can simply open "AST_Inference.ipynb" in google colab and follow my detailed instructions to analyze your .wav files. This mostly amounts to uploading the files to be reviewed to the apporopriate folder in "Rana_Draytonii_ML_Model", inputting a few parameters, and running the script. The script will take care of preprocessing the .wav files, running them through the AST model, and create the above excel file in less than the time it would take to listen to your audio recordings.
@@ -41,7 +41,7 @@ I created "Data_Manager.ipynb" to preform the following actions to prepare files
 
 "ASTtraining.ipynb" will clone this repository, mount google drive and install dependencies, then running the training script. The training script outputs various evaluation metrics as it runs through multiple epochs, and stores the final weights in a .pth file.
 
-## Examples:
+## Examples
 
 [Here](https://www.dropbox.com/scl/fi/p6hlxqsvh2j8n0scx2p2b/Rana-draytonii-2.wav?rlkey=a54489e3rv236g6swcfbog51q&dl=0) is an example of how *Rana Draytonii* sounds on its own. You can hear the deep grunting sound of it's call.
 
@@ -50,7 +50,7 @@ I created "Data_Manager.ipynb" to preform the following actions to prepare files
 [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is an example of audio that would get negatively identified by my model.
 
 
-## Ideas for improvement:
+## Ideas for improvement
 * Cut off the unused frequencies from files that record frequencies well out of the range where this species vocalizes
 * Also train model to listen for other species, such as bullfrogs which prey on *Rana Draytonii*. This would only require the labelled training data of the species, all other scripts can remain the same besides a few small tweaks.
 * Include more data like where the files were recorded and provide more information like graphs of calls over time or a map.
