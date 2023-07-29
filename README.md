@@ -16,9 +16,20 @@ This repository contains Tyler Schwenk's fork of the official implementation (in
 
 AST is the first **convolution-free, purely** attention-based model for audio classification which supports variable length input and can be applied to various tasks. 
 
-I am using this to identify the presence of the endangered Rana Draytonii in .wav audio files. I have altered the dataloader.py, and created a new model in egs/Rana7. I have also added my preprossesing scripts (Data_Manager.ipynb) and training script (ASTtraining.ipynb) in the folder Tyler-specific. My data is stored in the google drive: https://drive.google.com/drive/u/0/folders/1YgPhiow1Gi8ANfxjbf5uzDEoLzV9ABVQ
+I have fine tuned the audioset-pretrained model to identify the presence of the endangered Rana Draytonii in audio files taken from the field. These files are recorded near ponds, and can include noise such as other species of frogs or animals, rain, and wind. Despite the noise, the model is able to determine the presence of Rana Draytonii with about 98.77% accuracy, calculated as the proportion of predictions where the highest scoring label matches the key data. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the files metadata and output the information in an Excel file as below:
 
-Once I train an acceptable model I will update this Github with a more usable step-by-step script for feeding files into the model, and will have it produce output in a more practical way. I will talk to you folks at the Nat to see how we want to format the output such as in terms of where calls are in files, or even making some graphs of how often certain locations have calls. This github is currently far from complete or polished but will hopefully provide some good information. Below will be information on my current ideas of where we are at (6/30/2023) and some leftover information from the AST github that I froked from.
+| Model Name : Version | File Name     | Prediction | Times Heard | Device ID               | Timestamp                  | Temperature | Review Date |
+|----------------------|---------------|------------|-------------|-------------------------|----------------------------|-------------|-------------|
+| AST_Rana_Draytonii:1.0 | 20221201_190000 | Negative   | N/A         | AudioMoth 249BC30461CBB1E6 | 19:00:00 01/12/2022 (UTC-8) | 9.3C        | 2023-07-22  |
+| AST_Rana_Draytonii:1.0 | 20221201_205000 | Negative   | N/A         | AudioMoth 249BC30461CBB1E6 | 20:50:00 01/12/2022 (UTC-8) | 9.1C        | 2023-07-22  |
+
+
+I have altered the dataloader.py, and created a new model in egs/Rana7. I have also added my preprossesing scripts (Data_Manager.ipynb) and training script (ASTtraining.ipynb) in the folder "Preprocessing". 
+
+The folder "Rana_Draytonii_ML_Model" contains everything needed to run the model, besides my fine tuned weights which can be downloaded here: https://www.dropbox.com/scl/fi/1ohxy38sm9863u2quf14h/best_audio_model1.pth?rlkey=ku3y2z88agn2kyumypjz3vpzj&dl=0
+
+
+
 
 
 ## How it works:
