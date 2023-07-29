@@ -1,11 +1,10 @@
 
-# AST: Audio Spectrogram Transformer - fine tuned for Rana Draytonii
+# Audio Spectrogram Transformer - Fine-Tuned for Bioacoustics
  - [Introduction](#Introduction)
  - [How it works](#How-it-works)
- - [Limitations](#Limitations)
+ - [Examples](#Examples)
  - [Ideas for improvement](#Ideas-for-improvement)
  - [Citing](#Citing)  
- - [Getting Started](#Getting-Started)
  - [Contact](#Contact)
 
 ## Introduction  
@@ -16,7 +15,7 @@ This repository contains Tyler Schwenk's fork of the official implementation (in
 
 AST is the first **convolution-free, purely** attention-based model for audio classification which supports variable length input and can be applied to various tasks. 
 
-I have fine tuned the audioset-pretrained model to identify the presence of the endangered Rana Draytonii in audio files taken from the field. These files are recorded near ponds, and can include noise such as other species of frogs or animals, rain, and wind.
+I have fine tuned the audioset-pretrained model to identify the presence of the endangered frog, *Rana Draytonii*, in audio files taken from the field. These files are recorded near ponds, and can include noise such as other species of frogs or animals, rain, and wind.
 
 Despite the noise, the model is able to determine the presence of Rana Draytonii with about 98.77% accuracy, calculated as the proportion of predictions where the highest scoring label matches the key data. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the files metadata and output the information in an Excel file as below:
 
@@ -42,28 +41,19 @@ I created Data_Manager to preform the following actions to prepare files for tra
 
 ASTtraining.ipynb will clone this repository, mount google drive and install dependencies, then running the training script. The training script outputs various evaluation metrics as it runs through multiple epochs, and stores the final weights in a .pth file.
 
-## Limitations:
-Lack of data: currently using about 300 positive and 300 negative samples that are 10 seconds each. ~10 minutes of data
+## Examples:
 
-Noise: Can have very high amounts of noise in the data. Primarily due to chorus frogs, but also things like running water or wind.
+[Here](https://www.dropbox.com/scl/fi/p6hlxqsvh2j8n0scx2p2b/Rana-draytonii-2.wav?rlkey=a54489e3rv236g6swcfbog51q&dl=0) is an example of how *Rana Draytonii* sounds on its own. You can hear the deep grunting sound of it's call.
 
-Unfocused data: Data comes in as .wav files with frequencies from 0 – 24 kHz, but our frog vocalizes between 0 - 3 kHz, and chorus frogs are around 0.6 - 5 kHz. So a lot of the data is useless, and there is often noise. More focused recordings could help?
+[Here](https://www.dropbox.com/scl/fi/9l9lsf725zdtf6ci24oip/Pseudacris-and-Rana-3.wav?rlkey=yy6rvxh54h4ylebrqv0xew56b&dl=0) is an example of *Rana Draytonii's* calls among other noise, including the chorus frog. This model will still be able to identify *Rana Draytonii* through the noise, and similarly would not positively ID when only the chorus frog is present.
+
+[Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is an example of audio that would get negatively identified by my model.
 
 
 ## Ideas for improvement:
-Gather more data
-
-Look more into what data augmentation techniques are being used and make sure they aren’t harming my data.
-
-Cut off the unused frequencies (above 3 kHz)
-
-Use a totally different model specifically for binary classification and/or frog noises
-
-Polish everything, wrap a good model in an easy to use step by step google colab file that has good documentation. Automate things so you can plug in a path to a folder, and have it return readable locations of where it hears Rana draytonii so human can double check. (original file name and timestamp within 10 seconds)
-
-Perhaps plug this in with data of where/when the files were recorded and provide more information like graphs of calls over time or a map.
-
-
+* Cut off the unused frequencies from files that record frequencies well out of the range where this species vocalizes
+* Also train model to listen for other species, such as bullfrogs which prey on *Rana Draytonii*. This would only require the labelled training data of the species, all other scripts can remain the same besides a few small tweaks.
+* Include more data like where the files were recorded and provide more information like graphs of calls over time or a map.
 
 ## Citing  
 The first paper proposes the Audio Spectrogram Transformer while the second paper describes the training pipeline that they applied on AST to achieve the new state-of-the-art on AudioSet.   
@@ -86,69 +76,8 @@ The first paper proposes the Audio Spectrogram Transformer while the second pape
     doi={10.1109/TASLP.2021.3120633}
 }
 ```  
-  
-## Getting Started  
-
-Step 1. Clone or download this repository and set it as the working directory, create a virtual environment and install the dependencies.
-
-```
-cd ast/ 
-python3 -m venv venvast
-source venvast/bin/activate
-pip install -r requirements.txt 
-```
-  
-Step 2. Test the AST model.
-
-```python
-ASTModel(label_dim=527, \
-         fstride=10, tstride=10, \
-         input_fdim=128, input_tdim=1024, \
-         imagenet_pretrain=True, audioset_pretrain=False, \
-         model_size='base384')
-```  
-
-**Parameters:**\
-`label_dim` : The number of classes (default:`527`).\
-`fstride`:  The stride of patch spliting on the frequency dimension, for 16\*16 patchs, fstride=16 means no overlap, fstride=10 means overlap of 6 (used in the paper). (default:`10`)\
-`tstride`:  The stride of patch spliting on the time dimension, for 16*16 patchs, tstride=16 means no overlap, tstride=10 means overlap of 6 (used in the paper). (default:`10`)\
-`input_fdim`: The number of frequency bins of the input spectrogram. (default:`128`)\
-`input_tdim`: The number of time frames of the input spectrogram. (default:`1024`, i.e., 10.24s)\
-`imagenet_pretrain`: If `True`, use ImageNet pretrained model. (default: `True`, we recommend to set it as `True` for all tasks.)\
-`audioset_pretrain`: If`True`,  use full AudioSet And ImageNet pretrained model. Currently only support `base384` model with `fstride=tstride=10`. (default: `False`, we recommend to set it as `True` for all tasks except AudioSet.)\
-`model_size`: The model size of AST, should be in `[tiny224, small224, base224, base384]` (default: `base384`).
-
-**Input:** Tensor in shape `[batch_size, temporal_frame_num, frequency_bin_num]`. Note: the input spectrogram should be normalized with dataset mean and std, see [here](https://github.com/YuanGongND/ast/blob/102f0477099f83e04f6f2b30a498464b78bbaf46/src/dataloader.py#L191). \
-**Output:** Tensor of raw logits (i.e., without Sigmoid) in shape `[batch_size, label_dim]`.
-
-``` 
-cd ast/src
-python
-```  
-
-```python
-import os 
-import torch
-from models import ASTModel 
-# download pretrained model in this directory
-os.environ['TORCH_HOME'] = '../pretrained_models'  
-# assume each input spectrogram has 100 time frames
-input_tdim = 100
-# assume the task has 527 classes
-label_dim = 527
-# create a pseudo input: a batch of 10 spectrogram, each with 100 time frames and 128 frequency bins 
-test_input = torch.rand([10, input_tdim, 128]) 
-# create an AST model
-ast_mdl = ASTModel(label_dim=label_dim, input_tdim=input_tdim, imagenet_pretrain=True)
-test_output = ast_mdl(test_input) 
-# output should be in shape [10, 527], i.e., 10 samples, each with prediction of 527 classes. 
-print(test_output.shape)  
-```  
-
-We have an one-click, self-contained Google Colab script for (pretrained) AST inference and attention visualization. Please test the model with your own audio at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YuanGongND/ast/blob/master/colab/AST_Inference_Demo.ipynb) by one click (no GPU needed).
-
 
 
  ## Contact
-If you have a question, please bring up an issue (preferred) or send me an email yuangong@mit.edu.
+If you have a question, would like to develop something similar for another species, or just want to share how you have used this, send me an email at tylerschwenk1@yahoo.com.
 
