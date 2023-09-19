@@ -5,13 +5,13 @@ set -x
 export TORCH_HOME=../../pretrained_models
 
 model=ast
-dataset=Rana_Draytonii # replace with your dataset name
+dataset=Rana_Draytonii_V2 # replace with your dataset name
 set=balanced # replace with your training set type (full/balanced)
 imagenetpretrain=True
 
 # Please adjust all these parameters based on your data and task
 lr=1e-5
-epoch=5
+epoch=8
 tr_data=./data/train_data.json # replace with your training data path
 te_data=./data/val_data.json # replace with your evaluation data path
 freqm=48
