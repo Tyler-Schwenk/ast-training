@@ -17,7 +17,9 @@ AST is the first **convolution-free, purely** attention-based model for audio cl
 
 I have fine tuned the audioset-pretrained model to identify the presence of the endangered frog, *Rana Draytonii*, in audio files taken from the field. These files are recorded near ponds, and can include noise such as other species of frogs or animals, rain, and wind.
 
-Despite the noise, the model is able to determine the presence of Rana Draytonii with about 98.77% accuracy, calculated as the proportion of predictions where the highest scoring label matches the key data. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the files metadata and output the information in an Excel file as below:
+Despite the noise, the model is able to determine the presence of Rana Draytonii with about 98.77% accuracy, calculated as the proportion of predictions where the highest scoring label matches the key data. 
+
+The inference first handles all of the preprocessing of the data from raw .wav files into 10 second, 16kHz, mono audio segments that it uses to create spectrograms readable to the model. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the audio files' metadata and output the information in an Excel file as below:
 
 | Model Name : Version | File Name     | Prediction | Times Heard | Device ID               | Timestamp                  | Temperature | Review Date |
 |----------------------|---------------|------------|-------------|-------------------------|----------------------------|-------------|-------------|
