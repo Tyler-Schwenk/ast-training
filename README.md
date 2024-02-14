@@ -11,6 +11,8 @@
 
 <p align="center"><img src="https://github.com/YuanGongND/ast/blob/master/ast.png?raw=true" alt="Illustration of AST." width="300"/></p>
 
+**As of 2/14/2024 this model has been integrated into a standalone application, as outlined [here](https://www.github.com/tyler-schwenk/ribbitradar)**
+
 This repository contains Tyler Schwenk's fork of the official implementation (in PyTorch) of the **Audio Spectrogram Transformer (AST)** proposed in the Interspeech 2021 paper [AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778) (Yuan Gong, Yu-An Chung, James Glass).  
 
 AST is the first **convolution-free, purely** attention-based model for audio classification which supports variable length input and can be applied to various tasks. 
