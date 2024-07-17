@@ -1,5 +1,12 @@
 
 # Audio Spectrogram Transformer - Fine-Tuned for Bioacoustics
+
+<p align="center">
+    <a href="https://opensource.org/license/bsd-3-clause"><img alt="License: BSD 3-Clause" src="https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"></a>
+    <a href="https://github.com/Tyler-Schwenk/ast-Rana-Draytonii/issues"><img alt="Issue Badge" src="https://img.shields.io/github/issues/Tyler-Schwenk/ast-Rana-Draytonii"></a>
+    <a href="https://github.com/Tyler-Schwenk/ast-Rana-Draytonii/pulls"><img alt="Pull requests Badge" src="https://img.shields.io/github/issues-pr/Tyler-Schwenk/ast-Rana-Draytonii"></a>
+</p>
+
  - [Introduction](#Introduction)
  - [How it works](#How-it-works)
  - [Examples](#Examples)
