@@ -5,7 +5,7 @@ set -x
 export TORCH_HOME=../../pretrained_models
 
 model=ast
-dataset=Rana_Draytonii_V2 # replace with your dataset name
+dataset=Rana_Draytonii_V3 # replace with your dataset name
 set=balanced # replace with your training set type (full/balanced)
 imagenetpretrain=True
 
