@@ -1,0 +1,2464 @@
+{
+    "data": [
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_195000_segment2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_195000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM204500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_193000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_213500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_224000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_203000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220203PotreroAM015000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220126PotreroAM220500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_234000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230101_003000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_180500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_185000 NO_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM231500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220113MelingAM000000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_192500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_231000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_234000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_184000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_221000 NO_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_190500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_190000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_223000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM204500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM002500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_020000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM184500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220102_011500 NO_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_190500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_210000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_172500_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_195500_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_200500_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_022000 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_180500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_214500_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230104_001000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_202000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220110_054000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_190000_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_213000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_191500_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_210000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_194000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM002000_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM195000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_221500_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_204500_segment2  NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_233000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_042000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM023000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_045000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_190500_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_184500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230109_211000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM184000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_222500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_193500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM210500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_225000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_174000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_212000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_225000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_044000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_202000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM021000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_205000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211215MelingAM014500 CRLF_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230111_052000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_191500_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_221500_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211220MelingAM184500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_055000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_025000 NO_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_203000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_190500 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_192000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_193000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_212500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM020000 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_231500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_010000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM202000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_201500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224500 Both_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_213500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM182500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM194000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM205500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_225000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_200500_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_210500_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_210000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_212000 NO_segment5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_231000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_052500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM204000_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_220000_segment1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220111_000000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM012500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_222500_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230104_003000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_055000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM020000 CRLF_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM180500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM203500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_234500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_222000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_201500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM181000_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_202500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_223000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM191500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_191000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM195000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_192000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM041000 CRLF_2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220102_180000 NO_segment1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211216MelingAM203000 CRLF_2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_195000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_182500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_023500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210214_000000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_211000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_225500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM180000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_194500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_204000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221213_213000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220111_052500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_040000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_215000_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_172000_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM020500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM225500 CRLF_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM204000 CRLF_5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_224000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM213500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_211000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230109_200000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM004500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_044000_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_203000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_204000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_203000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM180000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_190500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_185500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_004500 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_230000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_011000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_173500_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM011000_5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_045500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM203000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_024500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM005000_2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM181000 CRLF_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_201500_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_210500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM001000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_211000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_212000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220126PotreroAM035500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM214000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220110_043500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_025500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220110_050500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_193000_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_023000 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220127PotreroAM023000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM211500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20221213_213000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220111_024500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_015500 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM195500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_005000 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_220000_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_044000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220204PotreroAM024500_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_204000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM184000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_211000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_224000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_192500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230104_004000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM221500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230102_180000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_182500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_211000 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM015000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_002000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_010000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_210000_segment3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_193000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM234500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210214_000000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM001500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_185000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM022000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_211000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_190000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_203000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_203500_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_043500_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_224000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_034000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_011500 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_053000_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM042000 CRLF_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_040000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_055000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_032000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM181500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_193000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230103_213000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_025500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_032000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_011000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_220000_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM180500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_193000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211225MelingAM042500 CRLF_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM182500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211227MelingAM191000 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_193000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_194500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_191500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM004000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_013500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220104_181000 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230104_001000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM210000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_192500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_204000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_213500 NO_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_203000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_211500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211225MelingAM183000 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_222000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_224000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM042500 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_191000_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM185500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM195000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_212500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_022000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_213500 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_004000 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230104_004000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_023500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_045000_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_235500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211213_000500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_225000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_214500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM211000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_181500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM213500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220102_010500 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230111_053000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_220000_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220111_002500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM203000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_204000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230104_000000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220104_203500 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_024500 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM220500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM231500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM201500 CRLF_4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230109_195000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_203000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM181500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_193000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM181000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_180000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_190000_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220127PotreroAM003000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM200500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_193000_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM214500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_051000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211216MelingAM220500 CRLF_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_013500 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_221000 NO_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_173000_segment3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_211000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211213_000500_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210214_002000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_210500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_193000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220111_011500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_055000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM224500 Both_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220126PotreroAM184500_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM223500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM191000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_013500 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211227MelingAM183500 CRLF_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_215500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_015000 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_224000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113PotreroAM012000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM211000_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM005000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM003500_4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM180500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM181000_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_182000_segment0_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_172500_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM014000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM214000_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_211500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_231000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211222MelingAM220500 CRLF_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_210500_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM183000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_032000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211215MelingAM014500 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_203000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_221500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM042000 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_023500_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_183000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_220500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_193000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM014500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_222000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM204000_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_200500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM231000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230104_004000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_193500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_220000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM020000 CRLF_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM181000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220128PotreroAM002500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM000500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_215500 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_193000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM185500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_181500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM215000 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_232500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_193000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_055500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_203500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220204PotreroAM035500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220104_203500 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM014500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_053000_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_202000_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM200500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_212500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM011500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_190500 NO_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM194000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM230000 R draytonii Only_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_222000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_172000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM210500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_224000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210214_000500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_212000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM180000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_014000 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_051000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_200500_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_204000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_211000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM194500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_193000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM194500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM205000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211215MelingAM031000 CRLF_3  YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_192500_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_231000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM182500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM212000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM004500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_184000_segment2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230111_181000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_230000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230101_011000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM204000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_182500 NO_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_222500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_195000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM000500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_204500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_191500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_181000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_010000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_230000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_190500_segment1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220126PotreroAM011500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM190000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220203PotreroAM213000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM215000 CRLF_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_185500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM201500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM214000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_025000 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_194000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220110_205000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_174500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_192000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM015000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM180000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_223500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211227MelingAM022500 CRLF_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220110_182500_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM202500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_044000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_211000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM203500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210214_002000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220102_014000 NO_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_055000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM002500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM013000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM203500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_004500_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_211500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_200000_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_030500 NO_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211226MelingAM193000 CRLF_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220110_052000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_201000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM195500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_225000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_002000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_194000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211216MelingAM203000 CRLF_4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_203000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_221000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_181000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211216MelingAM220500 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_201500_segment1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM191000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_022500 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM195000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM003500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM192500_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_011500 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220111_013500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_044500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211216MelingAM220500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_214500_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_030000 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM022000_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_183000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM204500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211227MelingAM183500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_210000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_214500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM225500 R draytonii Only_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_215000_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM185500_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211220MelingAM013500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM211000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_045000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_180000_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_231000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM002500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220111_052500_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_204000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_211500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM182000_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM185000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_005000 NO_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM210000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_211000 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_005500 NO_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM203000_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_202000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_190500_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_202000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_011500_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_181500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_212000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM204000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM004500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_195000_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_214500 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_192000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_023000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_030000 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220104_192500 NO_segment5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_021500 NO_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230108_051000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM221500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_225000_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_192000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_213000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM182000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_024500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20221230_182000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_034000_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_004500 NO_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230102_055000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM201000_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211214MelingAM201500 CRLF_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_204000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_205000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_183500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_193500_segment4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_210500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_010000 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_182500_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220102_005000 NO_segment2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_182500_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230106_235000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_021000 NO_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM014000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211213MelingAM231500 CRLF_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211221MelingAM211500 CRLF_3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_053500_segment5 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_170000_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211213MelingAM193000 CRLF_3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM212000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_020000 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220106_053500 NO_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_232000_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211213MelingAM212500 CRLF_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220111_055000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_010000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM193000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_203500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_004500_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_182500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_194500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220322_203000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220126PotreroAM214000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_230000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_223000_segment0_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_194000_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230109_205000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_192500_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230105_044000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_053000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_204500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM010000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM184500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_192500_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM014000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_191500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM211000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_200000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_214500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220106MelingAM012500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220110_193500_1_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220111_044000_2_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220113PotreroAM033000_3_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_192500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_205000_segment0 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220102_004500 NO_segment2 yes_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211227MelingAM185000 CRLF_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM192000_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_223000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_024500_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230107_000000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_194500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM193500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_211500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_020500 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_014500 NO_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211213MelingAM204500 CRLF_2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_184500_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM232500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210205_202000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_234500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_194000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_200500_segment2 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211224MelingAM041500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_002000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230106_224000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_185000_segment2_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_224000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220111_044000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM204000_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210120_185000_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM190000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_045500_segment4 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_214000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM183000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_012000 NO_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_195000_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211212_204500_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM004500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_195000_segment0 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211212_203500_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM185500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/FAUNO-POND_20210424_202000_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM210000_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_045000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_200500_segment1_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211215MelingAM031000 CRLF_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210213_184000_segment4_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM180000_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230108_012000_5_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211228MelingAM001500_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM215500_5 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20230105_015000_6_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20230109_204000_4_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20211213MelingAM220000 CRLF_6 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20211222MelingAM200500 CRLF_2 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220114MelingAM200500_3 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM182000_1 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/MELING-MEDIO_20220323_052000_segment1 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/BACKUP_20220101_215000 NO_segment3 NO_resampled.wav",
+            "labels": "/m/negative"
+        },
+        {
+            "wav": "ResampledAudio/20220112MelingAM180500_4 YES_resampled.wav",
+            "labels": "/m/positive"
+        },
+        {
+            "wav": "ResampledAudio/POZA-MEDIO_20210206_201500_segment3_resampled.wav",
+            "labels": "/m/positive"
+        }
+    ]
+}
