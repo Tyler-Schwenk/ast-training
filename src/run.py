@@ -69,6 +69,9 @@ parser.add_argument('--wa', help='if weight averaging', type=ast.literal_eval, d
 parser.add_argument('--wa_start', type=int, default=1, help="which epoch to start weight averaging the checkpoint model")
 parser.add_argument('--wa_end', type=int, default=5, help="which epoch to end weight averaging the checkpoint model")
 
+# New argument to accept the checkpoint path ADDED BY TYLER
+parser.add_argument("--load_checkpoint", type=str, default=None, help="Path to the checkpoint to load for fine-tuning")
+
 # if args.dataset == 'audioset':
 #     if len(train_loader.dataset) > 2e5:
 #         print('scheduler for full audioset is used')
@@ -133,6 +136,15 @@ if args.model == 'ast':
     audio_model = models.ASTModel(label_dim=args.n_class, fstride=args.fstride, tstride=args.tstride, input_fdim=128,
                                   input_tdim=args.audio_length, imagenet_pretrain=args.imagenet_pretrain,
                                   audioset_pretrain=args.audioset_pretrain, model_size='base384')
+
+    # Load the checkpoint if provided ADDED BY TYLER
+    if args.load_checkpoint is not None:
+        if os.path.isfile(args.load_checkpoint):
+            print(f"Loading checkpoint from {args.load_checkpoint}")
+            checkpoint = torch.load(args.load_checkpoint, map_location='cpu')
+            audio_model.load_state_dict(checkpoint['model_state_dict'])  # Adjust key name as necessary
+        else:
+            print(f"Checkpoint not found at {args.load_checkpoint}")
 
 print("\nCreating experiment directory: %s" % args.exp_dir)
 os.makedirs("%s/models" % args.exp_dir)
