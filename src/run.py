@@ -142,7 +142,7 @@ if args.model == 'ast':
         if os.path.isfile(args.load_checkpoint):
             print(f"Loading checkpoint from {args.load_checkpoint}")
             checkpoint = torch.load(args.load_checkpoint, map_location='cpu')
-            audio_model.load_state_dict(checkpoint['model_state_dict'])  # Adjust key name as necessary
+            audio_model.load_state_dict(checkpoint)  # Directly load the state dictionary
         else:
             print(f"Checkpoint not found at {args.load_checkpoint}")
 
