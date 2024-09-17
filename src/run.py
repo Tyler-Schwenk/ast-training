@@ -142,7 +142,14 @@ if args.model == 'ast':
         if os.path.isfile(args.load_checkpoint):
             print(f"Loading checkpoint from {args.load_checkpoint}")
             checkpoint = torch.load(args.load_checkpoint, map_location='cpu')
-            audio_model.load_state_dict(checkpoint)  # Directly load the state dictionary
+            
+            # Check if the checkpoint was saved with nn.DataParallel
+            state_dict = checkpoint
+            if 'module.' in list(checkpoint.keys())[0]:
+                # Remove the "module." prefix from the keys
+                state_dict = {k.replace('module.', ''): v for k, v in checkpoint.items()}
+    
+            audio_model.load_state_dict(state_dict)  # Load the modified state dictionary
         else:
             print(f"Checkpoint not found at {args.load_checkpoint}")
 
