@@ -30,13 +30,6 @@ Despite the noise, the model is able to determine the presence of Rana Draytonii
 
 The inference first handles all of the preprocessing of the data from raw .wav files into 10 second, 16kHz, mono audio segments that it uses to create spectrograms readable to the model. Beyond just determining if there are any calls heard in an audio file, my scipt will track when in the file they are heard, as well as pull information from the audio files' metadata and output the information in an Excel file as below:
 
-| Model Name : Version | File Name     | Prediction | Times Heard | Device ID               | Timestamp                  | Temperature | Review Date |
-|----------------------|---------------|------------|-------------|-------------------------|----------------------------|-------------|-------------|
-| AST_Rana_Draytonii:1.0 | 20221201_190000 | Positive!   | 0-50         | AudioMoth 249BC30461CBB1E6 | 19:00:00 01/12/2022 (UTC-8) | 9.3C        | 2023-07-22  |
-| AST_Rana_Draytonii:1.0 | 20221201_205000 | Negative   | N/A         | AudioMoth 249BC30461CBB1E6 | 20:50:00 01/12/2022 (UTC-8) | 9.1C        | 2023-07-22  |
-
-
-
 ## How it works
 The folder "Rana_Draytonii_ML_Model" contains everything needed to run the model, besides my fine tuned weights which can be downloaded [here](https://www.dropbox.com/scl/fi/xq8ig3mg8di58u5aq4zhr/best_audio_model_V2.pth?rlkey=fbi8wbrepehkrtj6t4dnby9gi&dl=0). Or simply download the entire folder, already setup [here](https://www.dropbox.com/scl/fi/03y4wnuui8uodvtboaayr/Rana_Draytonii_ML_Model-20230921T092906Z-001.zip?rlkey=emfsq3rtz2av68j41by7ce13j&dl=0).
 
